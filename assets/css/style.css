@@ -33,9 +33,9 @@ h5 {
 }
 .responsive-all{
       /* `lg` applies to medium devices (tablets, less than 992px) */
-      @media (max-width: 991.98px) {
-
-       width: 100%;
+      @media (max-width: 370px) {
+        width: 100%;
+       
     }
 }
 
