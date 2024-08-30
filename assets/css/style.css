@@ -31,6 +31,14 @@ h5 {
     font-weight: 700;
     font-family: var(--heading-font);
 }
+.responsive-all{
+      /* `lg` applies to medium devices (tablets, less than 992px) */
+      @media (max-width: 991.98px) {
+
+       width: 100%;
+    }
+}
+
 
 /* nevber & banner bg-img */
 
